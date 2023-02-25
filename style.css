@@ -1,0 +1,121 @@
+.navbar-brand img{
+    height: 50px;
+}
+.right img{
+    height: 25px;
+}
+.right button{
+    width: 100px;
+    border-color: black;
+    border-radius: 19px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+}
+.right2 button{
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 19px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+}
+.sofa img{
+    width: 100%;
+}
+.section-1{
+    background-color: #D4E9E2;
+}
+.section-1 button{
+    background-color:  #D4E9E2;
+    border-color: black;
+    color: black;
+    border-radius: 19px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+}
+.section-2{
+    background-color: rgb(61,113,112);
+}
+.section-2 button{
+    background-color: rgb(61,113,112);
+    border-color: white;
+    color: white;
+    border-radius: 19px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+}
+.panel{
+    padding-top: 8vmax;
+}
+.section-3{
+    background-color: rgb(244,197,161);
+}
+.section-3 button{
+    background-color: rgb(244,197,161);
+    border-color: black;
+    color: black;
+    border-radius: 19px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+}
+.section-4{
+    background-color: rgb(139,50,62);
+}
+.section-4 button{
+    background-color: rgb(139,50,62);
+    border-color: white;
+    color: white;
+    border-radius: 19px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    -ms-border-radius: 19px;
+    -o-border-radius: 19px;
+}
+a{
+    text-decoration: none!important;
+}
+.footer ul li{
+    list-style-type: none!important;
+}
+.footer a{
+    color: #73847e;
+}
+.footer a:hover{
+    color: black;
+}
+hr{
+    color: #73847e;
+}
+.social img{
+    width: 35px;
+}
+.social a{
+    margin: 0 6px;
+}
+.caption-last a{
+    color: black;
+}
+.right{
+    color: #73847e;
+}
+@media(min-width: 1024px){
+    .caption-last li{
+        display: inline!important;
+        padding: 0 10px;
+    }
+}
+@media(max-width: 1200px){
+    .line{
+        display: none;
+    }
+}
